@@ -22,6 +22,64 @@ Code v99.99.999
 
 ## Unreleased
 
+## [4.99.3](https://github.com/coder/code-server/releases/tag/v4.99.3) - 2025-04-17
+
+Code v1.99.3
+
+### Added
+
+- Added `--skip-auth-preflight` flag to let preflight requests through the
+  proxy.
+
+### Changed
+
+- Update to Code 1.99.3.
+
+## [4.99.2](https://github.com/coder/code-server/releases/tag/v4.99.2) - 2025-04-10
+
+Code v1.99.2
+
+### Changed
+
+- Update to Code 1.99.2.
+
+## [4.99.1](https://github.com/coder/code-server/releases/tag/v4.99.1) - 2025-04-08
+
+Code v1.99.1
+
+### Changed
+
+- Update to Code 1.99.1.
+
+## [4.99.0](https://github.com/coder/code-server/releases/tag/v4.99.0) - 2025-04-07
+
+Code v1.99.0
+
+### Changed
+
+- Update to Code 1.99.0.
+
+## [4.98.0](https://github.com/coder/code-server/releases/tag/v4.98.0) - 2025-03-07
+
+Code v1.98.0
+
+### Changed
+
+- Update to Code 1.98.0.
+
+## [4.97.2](https://github.com/coder/code-server/releases/tag/v4.96.4) - 2025-02-18
+
+Code v1.97.2
+
+### Added
+
+- Added back macOS amd64 builds.
+
+### Changed
+
+- Update to Code 1.97.2.
+- Softened dark mode login page colors.
+
 ## [4.96.4](https://github.com/coder/code-server/releases/tag/v4.96.4) - 2025-01-20
 
 Code v1.96.4
